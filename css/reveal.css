@@ -1408,3 +1408,20 @@ section > h1, section > h2 {
   left: 0 !important;
   bottom: 20% !important;
   text-align: center !important; }
+
+.creepy div {
+  position: absolute !important;
+  left: 0 !important;
+  bottom: 5% !important;
+  text-align: left !important; }
+
+.creepy div h3 {
+  color: #000; }
+
+.dumb {
+  position: absolute;
+  right: 0px;
+  text-align: right;
+  color: #0C080B;
+  text-align: right;
+  font-weight: 800; }
