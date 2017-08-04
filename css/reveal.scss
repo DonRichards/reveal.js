@@ -1479,13 +1479,7 @@ body {
   // max-width: 550px;
 }
 
-#sucks_being_a_girl {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  text-align: right;
-  color: #5DBCD2;
-}
+
 
 // Yellow #FFFC00
 // Pink #C9007A
@@ -1575,4 +1569,36 @@ html.img-right div.slide-background.present {
 	left: 0 !important;
 	bottom: 0 !important;
 	text-align: left !important;
+}
+
+
+#kazaryan {
+	position: absolute !important;
+	left: 0 !important;
+	bottom: 0 !important;
+	text-align: left !important;
+	// background:#79524B;
+	// opacity:.5;
+	padding: 13px;
+	color: #EAF5FE;
+	background-color:rgba(121, 82, 75, 0.5)
+}
+
+#cooke {
+	position: absolute !important;
+	right: 0 !important;
+	top: 0 !important;
+	text-align: left !important;
+	background-color:rgba(0, 0, 0, 0.5);
+	padding: 13px;
+}
+
+#sucks_being_a_girl {
+	position: absolute !important;
+	right: 0 !important;
+	top: 0 !important;
+	text-align: right !important;
+	background-color:rgba(0, 0, 0, 0.5);
+	padding: 13px;
+	color: #5DBCD2;
 }
