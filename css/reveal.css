@@ -1441,7 +1441,7 @@ html.img-right div.slide-background.present {
 .dante {
   position: absolute !important;
   left: 0 !important;
-  bottom: 0 !important;
+  bottom: 20px !important;
   text-align: left !important; }
 
 #kazaryan {
@@ -1476,3 +1476,9 @@ html.img-right div.slide-background.present {
   background-color: rgba(0, 0, 0, 0.5);
   padding: 3px;
   color: #5DBCD2; }
+
+#oversharing {
+  position: absolute !important;
+  top: 0 !important;
+  padding: 3px;
+  color: #F2A030; }

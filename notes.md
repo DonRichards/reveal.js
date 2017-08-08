@@ -46,7 +46,6 @@ Top 3 WhatsApp Hack Tools : https://drfone.wondershare.com/whatsapp/whatsapp-hac
 Videos:
 You are what you share : https://youtu.be/UyWwX_VzIBY
 
-
 Roughly 5 Million cellphone lost or stole in the US annually
 2M stolen 3M lost
 
@@ -75,3 +74,13 @@ Kayode Ewumi : Meme
 
 
 Eye Image: https://500px.com/photo/207639525/macro-beauty-by-alex-malikov?ctx_page=1&from=user&user_id=2903595
+
+
+Skipping?
+Techniques like
+Social Engineering
+
+
+
+
+softball Image: https://pbs.twimg.com/media/DGeTr4_UQAEYMS3.jpg
