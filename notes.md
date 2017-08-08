@@ -49,7 +49,7 @@ You are what you share : https://youtu.be/UyWwX_VzIBY
 Roughly 5 Million cellphone lost or stole in the US annually
 2M stolen 3M lost
 
-Whatsapp, Signal (only secure as the phone)
+Whatsapp, Signal (only as secure as the phone)
 end-to-end encryption
 Whatsapp keys Readme : https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf
 Identity Key, public Signed Pre Key, and a single public One-Time Pre Key
@@ -84,3 +84,5 @@ Social Engineering
 
 
 softball Image: https://pbs.twimg.com/media/DGeTr4_UQAEYMS3.jpg
+https://pbs.twimg.com/media/DGeiPBjXYAMo4Ci.jpg:large
+http://www.richmond.com/sports/local/atlee-junior-league-softball-team-disqualified-hours-before-world-series/article_4a5288f6-3c7c-5729-9707-622faa74e37f.html
