@@ -69,20 +69,21 @@ Control apps.
 .View multi-media files.
 .Lock or wipe out the device remotely.
 
-
-Kayode Ewumi : Meme
-
-
 Eye Image: https://500px.com/photo/207639525/macro-beauty-by-alex-malikov?ctx_page=1&from=user&user_id=2903595
-
 
 Skipping?
 Techniques like
 Social Engineering
 
-
-
-
 softball Image: https://pbs.twimg.com/media/DGeTr4_UQAEYMS3.jpg
 https://pbs.twimg.com/media/DGeiPBjXYAMo4Ci.jpg:large
 http://www.richmond.com/sports/local/atlee-junior-league-softball-team-disqualified-hours-before-world-series/article_4a5288f6-3c7c-5729-9707-622faa74e37f.html
+
+Lock Image: https://c1.staticflickr.com/7/6089/6046737029_c230e42b60_o.jpg
+Bug Image: https://c2.staticflickr.com/4/3672/14321893653_ea5b940c2d_o.jpg
+Dirt Bike Image: https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e35/20686424_1787371277944315_5540977075671793664_n.jpg
+
+Cyberbullying Image: http://d38k8gmri233nn.cloudfront.net/wp-content/uploads/2017/05/ThinkstockPhotos-465275149.jpg
+	Article: http://make-the-grade.com/2017/05/11/how-to-deal-with-cyberbullying/
+
+Questions Image: https://lifehacks.io/wp-content/uploads/questions-to-ask-a-girl-you-are-in-love-with.jpg
