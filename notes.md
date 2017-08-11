@@ -4,7 +4,29 @@ Get their attention
 What information they share
 Why be concerned (who's out to benefit)
 
-standard search engines such as Google, Yahoo and Bing. This is where Facebook lives. And CNN. And WebMD.
+URLs of the embedded videos. Video names include the youtube identifier.
+Sextortion_Online_Enticement-A_Look_at_a_New_Epidemic-a440H146l14.mp4
+	https://youtu.be/a440H146l14
+Hacker_Takes_Nude_Photos_Of_Miss_Teen_USA_dimjcTjm8ac.mp4
+	https://youtu.be/dimjcTjm8ac
+shows_how_easily_your_phone_can_be_hacked-zGUR6kao9ys.mp4
+	https://youtu.be/zGUR6kao9ys
+Hacker_steals_Snapchat_photos_from_all_over-6phkrI6w2j4.mp4
+	https://youtu.be/6phkrI6w2j4
+Dangers_of_Secret_Social_Media-ia9zXApCrNA.mp4
+	https://youtu.be/ia9zXApCrNA
+Blackmailed_and_held_for_ransom_on_Facebook-jMG5GAzn6WI.mp4
+	https://youtu.be/jMG5GAzn6WI
+puppy-p7DuUPCEKyw.mp4
+	https://youtu.be/p7DuUPCEKyw
+Exploring_the_legal_side_of_screening_job_candidates-usmv-JxRyo0.mp4
+	https://youtu.be/usmv-JxRyo0
+What_Happens_When_You_Dare_Expert_Hackers_To_Hack_You-F78UdORll-Q.mp4
+	https://youtu.be/F78UdORll-Q
+
+Didn't use but have it just in case
+Husband Held Dying Wife In His Arms After Armed Intruder Shot Her In Head-RnzkbLFRfCs.mp4
+https://youtu.be/RnzkbLFRfCs
 
 There are about 1 billion of these websites, but they make up only 4 percent of the World Wide Web.
 
