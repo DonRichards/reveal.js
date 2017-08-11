@@ -53,6 +53,7 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 - [License](#license)
 
 #### More reading
+- [Online Tutorial](http://htmlcheats.com/reveal-js/reveal-js-tutorial-reveal-js-for-beginners/)
 - [Changelog](https://github.com/hakimel/reveal.js/releases): Up-to-date version history.
 - [Examples](https://github.com/hakimel/reveal.js/wiki/Example-Presentations): Presentations created with reveal.js, add your own!
 - [Browser Support](https://github.com/hakimel/reveal.js/wiki/Browser-Support): Explanation of browser support and fallbacks.
@@ -126,10 +127,10 @@ You can write your content as a separate file and have reveal.js load it at runt
 When used locally, this feature requires that reveal.js [runs from a local web server](#full-setup).  The following example customises all available options:
 
 ```html
-<section data-markdown="example.md"  
-         data-separator="^\n\n\n"  
-         data-separator-vertical="^\n\n"  
-         data-separator-notes="^Note:"  
+<section data-markdown="example.md"
+         data-separator="^\n\n\n"
+         data-separator-vertical="^\n\n"
+         data-separator-notes="^Note:"
          data-charset="iso-8859-15">
 </section>
 ```
